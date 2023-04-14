@@ -1,0 +1,107 @@
+.logo{
+    position: absolute;
+    top: 1.33vw;
+    left: 2vw;
+    width: 18vw;
+    
+}
+.descript{
+    position: absolute;
+    top: 5vw;
+    width: 64vw;
+    left: 1.6vw;
+}
+.descript1{
+    width: 65vw;
+    left: -1vw;
+}
+.verst {
+    position: absolute;
+    top: 12.5vw;
+    left: -4vw;
+    width: 42vw;
+    height: auto;
+}
+.simple{
+    position: absolute;
+    top: 23.5vw;
+    left: 36vw;
+    width: 30.5vw;
+    height: auto;
+}
+.hub{
+    position: absolute;
+    top: 1.5vw;
+    left: 68vw;
+    width: 30.5vw;
+    height: auto;
+
+}
+.hok {
+    position: absolute;
+    top: 63.5vw;
+    left: 5vw;
+    width: 42vw;
+    height: auto;
+
+}
+.hok1 {
+    position: absolute;
+    top: -0.5vw;
+    left: -4vw;
+    width: 33vw;
+    height: auto;
+}
+.book{
+    position: absolute;
+    top: 63.5vw;
+    left: 5vw;
+    width: 42vw;
+    height: auto;
+}
+.book1{
+    position: absolute;
+    top: 6.5vw;
+    left: 31vw;
+    width: 30.2vw;
+    height: auto;
+}
+.bank1{
+    position: absolute;
+    top: 48.5vw;
+    left: 68vw;
+    width: 30vw;
+    height: auto;
+}
+.posl1{
+    position: absolute;
+    top: 94.6vw;
+    left: 68vw;
+    width: 30vw;
+    height: auto;
+}
+.info{
+    position: absolute;
+    top: 113vw;
+    left: 1vw;
+    width: 65vw;
+    height: auto;
+}
+.pl, .gr1, .gr2, .gr3, .gr5,.gr6,.gr7 {
+    margin-left:2.5vw;
+    margin-bottom:2vw;
+    width:95vw;
+}
+.gif, .gif3, .p{
+    width:100vw;
+    margin-bottom:2vw;
+}
+.text{
+    margin-left:2.5vw;
+    margin-bottom:2vw;
+    width: 42vw;
+}
+.p1{
+    width:100vw;
+    margin-bottom:2vw;
+}
